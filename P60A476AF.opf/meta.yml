@@ -1,0 +1,31 @@
+id: P60A476AF
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA00KG08439
+  instance_id: http://purl.bdrc.io/resource/IE00KG08439
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསོ་བ་རིག་པའི་རང་སྦྱོང་རྒྱུགས་གཞི།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - zang yi zi kao jie
+  author: http://purl.bdrc.io/resource/P00KG02332
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    e87af1e59bd14a24826424a5439e8095:
+      title: པོད ༡་གསོ་བ་རིག་པའི་རང་སྦྱོང་རྒྱུགས་གཞི
+      volume_number: 1
+      base_file: UT00KG08439_I00KG08441_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE67357F276898BBB
+      image_group: I00KG08441
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W00KG08439
+  - http://purl.bdrc.io/resource/MW00KG08439
+  ocr_software: Namsel
+created_at: '2021-12-22T10:19:32.170887'
+last_modified_at: '2021-12-22T10:19:32.170894'
